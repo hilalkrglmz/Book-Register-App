@@ -13,7 +13,7 @@ https://github.com/hilalkrglmz/Book-Register-App/assets/140657703/8a876122-4438-
 </head>
 <body>
     <header>
-        <h1> Book-registering project using Html Scss Javascript </h1>
+        <h1> Book-registering project using React & Javascript </h1>
     </header>
     <div class="container">
         <h2>About Project</h2>
